@@ -16,3 +16,10 @@ I hope you enjoy remaking the original Derma Git Theme!
 # Load and game
 ![photo_2023-06-20_22-28-43](https://github.com/cloxernonn/Derma-Plus/assets/103855028/e516bbfb-599a-4ce2-a2d6-4b26266f5cb0)
 ![photo_2023-06-21_10-58-18](https://github.com/cloxernonn/Derma-Plus/assets/103855028/3f395dc0-c748-4c10-862f-00e3e14e4608)
+
+
+
+# HOW to install
+1. Install all fonts as admin in resource/fonts
+2. Drop all files Garrys Mod/garrysmod with file replacement
+3. All theme is installed!
